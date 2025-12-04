@@ -204,7 +204,7 @@ Have an idea for a new cleaning function? Open an issue with:
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/ai-cleaner](https://github.com/yourusername/ai-cleaner)
+Project Link: [https://github.com/sahsuy/ai-cleaner](https://github.com/sahsuy/ai-cleaner)
 
 ---
 
